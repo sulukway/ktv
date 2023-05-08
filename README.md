@@ -1,3 +1,3 @@
 # ktv
-[Click Here](https://github.com/sulukway/ktv/)
+[Click Here](https://sulukway.github.io/ktv/)
 
