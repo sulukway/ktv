@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://getwallpapers.com/wallpaper/full/1/d/d/82514.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+body {
+   margin: 50px auto;
+   max-width: 1280px;
+   padding: 0;
+}
+
+#hlsjsvod {
+  background-image: url(https://logos-download.com/wp-content/uploads/2021/01/Smithsonian_Institution_Logo.png);
+	background-size: cover;
+/*   background-color: #f60; */
+}
