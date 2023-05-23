@@ -27,12 +27,12 @@
   var video = document.getElementById('video');
   if(Hls.isSupported()) {
     var hls = new Hls();
-    hls.loadSource('http://ptv.is:80/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=m3u8');
+    hls.loadSource('https://tv.omgsteam-9.xyz/streaming/PremierHD1/index.m3u8');
     hls.attachMedia(video);
     video.play();
   }
   else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = 'http://ptv.is:80/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=m3u8';
+    video.src = 'https://tv.omgsteam-9.xyz/streaming/PremierHD1/index.m3u8';
     video.addEventListener('loadedmetadata',function() {
       video.play();
     });
