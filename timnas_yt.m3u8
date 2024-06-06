@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:0,TimnasYT.m3u8
-TimnasYT.m3u8
-#EXTINF:3,index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717688232/ei/SINhZpeLE4PF6dsPk96IwAc/ip/86.107.43.88/id/tMRD5rbY4pw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f7Cnu6mXpPrkhmO8zipoqgQGc1xBrnZMQN9dJPrI8YXvKE6QuElogGM84rU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf6rybmi6NTrdlgeZOhAjQePlxMolzFWn4WpHMH2e4DkCIQD4Q4vG-dzcvHPiZLWNxPqYJ8agNPA9vjA9hFGaflTieg%3D%3D/file/index.m3u8
